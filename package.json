@@ -1,0 +1,24 @@
+{
+  "name": "build-node-server",
+  "version": "1.0.0",
+  "description": "A powerful Node.js server generator that automates the setup of nodejs backend",
+  "main": "build-node-server.sh",
+  "bin": {
+    "build-node-server": "./build-node-server.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayur-argade/build-node-server.git"
+  },
+  "keywords": [
+    "build",
+    "nodejs",
+    "server"
+  ],
+  "author": "Mayur Argade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayur-argade/build-node-server/issues"
+  },
+  "homepage": "https://github.com/mayur-argade/build-node-server#readme"
+}
